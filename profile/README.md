@@ -13,3 +13,4 @@ It was closed in October 2024, when the server owner (@enookie or "Enook" on Dis
 - [SciFy](https://github.com/Dungeonfy-Programmers/SciFy) - Client-side mod for Dungeonfy 1 & 2.
 - [Bootfy](https://github.com/Dungeonfy-Programmers/Bootfy) - Server startup app required for playing Dungeonfy.
 - [dfysp](https://github.com/Dungeonfy-Programmers/dfysp) - Dungeonfy's server files, cleaned up a little bit to be usable.
+- [Bootfy Skripts Repository](https://github.com/Dungeonfy-Programmers/Bootfy-Skripts-Repository) - Repo for Bootfy "Mods"
